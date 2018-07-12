@@ -174,8 +174,6 @@ public class DN : MonoBehaviour
             {
                 // smallIndex = 13;
             }
-
-
             xianpai[i] = smallIndex + 1;
         }
 
